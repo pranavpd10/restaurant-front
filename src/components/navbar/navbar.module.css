@@ -1,0 +1,11 @@
+.navbar {
+    & a {
+        color: black;
+        margin: 10px;
+    }
+
+    & .active{
+        color: red;
+    }
+}
+
